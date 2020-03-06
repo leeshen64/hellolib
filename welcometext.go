@@ -1,3 +1,3 @@
 package eclipse
 
-const WelcomeText string = "constant"
+const ss WelcomeText string = "constant"
