@@ -1,3 +1,3 @@
-package eclipse
+package hellolib
 
-const WelcomeText string = "eclipse package constant"
+const WelcomeText string = "hellolib package constant"
